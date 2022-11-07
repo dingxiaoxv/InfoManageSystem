@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/dyx/code/InfoManageSystem/build",
+  "command": "/usr/bin/g++  -I/home/dyx/code/InfoManageSystem/include -g -Wall -std=c++11 -o CMakeFiles/InfoManageSystem.dir/src/CStudentDTO.cpp.o -c /home/dyx/code/InfoManageSystem/src/CStudentDTO.cpp",
+  "file": "/home/dyx/code/InfoManageSystem/src/CStudentDTO.cpp"
+},
+{
+  "directory": "/home/dyx/code/InfoManageSystem/build",
+  "command": "/usr/bin/g++  -I/home/dyx/code/InfoManageSystem/include -g -Wall -std=c++11 -o CMakeFiles/InfoManageSystem.dir/src/IInterface.cpp.o -c /home/dyx/code/InfoManageSystem/src/IInterface.cpp",
+  "file": "/home/dyx/code/InfoManageSystem/src/IInterface.cpp"
+},
+{
+  "directory": "/home/dyx/code/InfoManageSystem/build",
+  "command": "/usr/bin/g++  -I/home/dyx/code/InfoManageSystem/include -g -Wall -std=c++11 -o CMakeFiles/InfoManageSystem.dir/src/InterfaceImpl.cpp.o -c /home/dyx/code/InfoManageSystem/src/InterfaceImpl.cpp",
+  "file": "/home/dyx/code/InfoManageSystem/src/InterfaceImpl.cpp"
+},
+{
+  "directory": "/home/dyx/code/InfoManageSystem/build",
+  "command": "/usr/bin/g++  -I/home/dyx/code/InfoManageSystem/include -g -Wall -std=c++11 -o CMakeFiles/InfoManageSystem.dir/src/main.cpp.o -c /home/dyx/code/InfoManageSystem/src/main.cpp",
+  "file": "/home/dyx/code/InfoManageSystem/src/main.cpp"
+}
+]

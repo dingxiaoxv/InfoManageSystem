@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/InfoManageSystem.dir/src/CStudentDTO.cpp.o CMakeFiles/InfoManageSystem.dir/src/IInterface.cpp.o CMakeFiles/InfoManageSystem.dir/src/InterfaceImpl.cpp.o CMakeFiles/InfoManageSystem.dir/src/main.cpp.o -o bin/InfoManageSystem   -L/home/dyx/code/InfoManageSystem/lib  -Wl,-rpath,/home/dyx/code/InfoManageSystem/lib -lInfoManage 

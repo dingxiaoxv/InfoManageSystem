@@ -1,0 +1,3 @@
+/home/dyx/code/InfoManageSystem/build/CMakeFiles/InfoManageSystem.dir
+/home/dyx/code/InfoManageSystem/build/CMakeFiles/edit_cache.dir
+/home/dyx/code/InfoManageSystem/build/CMakeFiles/rebuild_cache.dir
